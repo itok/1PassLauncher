@@ -41,7 +41,7 @@
 
 -(void) launch1Password
 {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"1password:"]];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"onepassword3:"]];
 }
 
 @end
