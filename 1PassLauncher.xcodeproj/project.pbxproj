@@ -12,6 +12,7 @@
 		577777EB15DAA6DB00E27FA5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 577777EA15DAA6DB00E27FA5 /* CoreGraphics.framework */; };
 		577777F315DAA6DB00E27FA5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 577777F215DAA6DB00E27FA5 /* main.m */; };
 		577777F715DAA6DB00E27FA5 /* PLAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 577777F615DAA6DB00E27FA5 /* PLAppDelegate.m */; };
+		5778B176167A580C005B6E22 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5778B175167A580C005B6E22 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		577777F415DAA6DB00E27FA5 /* 1PassLauncher-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "1PassLauncher-Prefix.pch"; sourceTree = "<group>"; };
 		577777F515DAA6DB00E27FA5 /* PLAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PLAppDelegate.h; sourceTree = "<group>"; };
 		577777F615DAA6DB00E27FA5 /* PLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PLAppDelegate.m; sourceTree = "<group>"; };
+		5778B175167A580C005B6E22 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 		577777D715DAA6DA00E27FA5 = {
 			isa = PBXGroup;
 			children = (
+				5778B175167A580C005B6E22 /* Default-568h@2x.png */,
 				577777EC15DAA6DB00E27FA5 /* 1PassLauncher */,
 				577777E515DAA6DB00E27FA5 /* Frameworks */,
 				577777E315DAA6DB00E27FA5 /* Products */,
@@ -139,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5778B176167A580C005B6E22 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
